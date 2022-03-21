@@ -46,4 +46,4 @@ http://artdebeauty.ru/
 
 - 2018- 2019 i did many diffrent projects wich i cant now defenetly to listing but i remeber good the http://new.rusdiamhouse.ru/make/ring/ 
 
-- 📫 How to reach me ivan.ser0692@gmail.com
+- 📫 How to reach me ivan.serg0692@gmail.com
