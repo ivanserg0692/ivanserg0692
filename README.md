@@ -8,7 +8,7 @@
 ivanserg0692/ivanserg0692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-now I am web developer on PHP. And i love to develop a backand. 
+Now I am web developer on PHP. And i love to develop a backand. 
 
 Since 2022 year i have expereince of 4 year the commercial web development. I began my way with bitrix Framework. And within 3 year i have been practiced that business. 
 
