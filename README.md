@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivanserg0692
-- 👀 I’m interested in backamd or FullStack
+- 👀 I’m interested in backand or FullStack
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel or Bitrix Framemwork
 
