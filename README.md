@@ -25,15 +25,23 @@ My exreprince:
 - 2019-2021 i worked in Web-studio the FirstBit where i did such project as:
 
 https://rosmorport.ru/
+
 https://olivka.shop/
+
 https://ltruck.tk/
+
 https://favourite-light.com/catalog/
+
 https://agrico-cis.ru/
+
 https://www.sport-pulse.ru/
+
 https://www.mishkapanda.ru/
+
 https://fortland.ru/
 
 http://tillistilli.ru/
+
 http://artdebeauty.ru/
 
 - 2018- 2019 i did many diffrent project wich i cant now defenetly to listing but i remeber good the http://new.rusdiamhouse.ru/make/ring/ 
