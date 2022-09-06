@@ -16,7 +16,7 @@ This business gived to me good exprerience, amotions and confident.
 
 Therefore i will to continue this. 
 
-Within this time I understanded the conceptions of object's programming at backend and frontand. 
+Within this time I understood the conceptions of object's programming at backend and frontand. 
 More time i work on PHP backend and then i very good know hwo prepare this product.
 
 My exreprince:
