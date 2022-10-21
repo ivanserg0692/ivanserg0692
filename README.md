@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Now I am web developer on PHP. And i love to develop a backend. 
 
-Since 2022 year i have expereince of 4 year the commercial web development. I began my way with bitrix Framework. And within 3 year i've been practicing that business. 
+Since 2022 year i have expereince of 4 year the commercial web development. I began my way with bitrix Framework. During 3 year i've been practicing that business. 
 
 By Result, this business gived me good exprerience, amotions and confident.
 
