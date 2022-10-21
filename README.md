@@ -12,7 +12,7 @@ Now I am Senior web developer on PHP. And I love developing an apllictaion backe
 
 Since 2022 year I have expereince of 4 year the commercial web development. I began my way with bitrix Framework in 2018. 
 
-By Result, this business gived me good exprerience, amotions and confident.
+By Result, this business gived me good exprerience, emotions and confident.
 
 I confirmed knowalge by well passing the exames of Bitrix Framemwork https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
 
