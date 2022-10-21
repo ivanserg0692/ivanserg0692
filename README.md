@@ -18,7 +18,7 @@ I confirmed knowalge by well passing the exames of Bitrix Framemwork https://dev
 
 Who don't know what is the Bitrix Framemwork, i can explain that Bitrix Framemwork is popular russian application backend fraemwork for E-commerce: web shops, portal and etc...
 
-Because this experecince is profitable for me, I decided continue researching it and growing my professionalism like that. 
+Because this experecince is profitable for me, I decided to continue researching it and growing my professionalism like that. 
 
 I've been applying the conceptions of object's programming at backend and frontand since 2017. 
 I've  been working on the PHP backend with Bitrix and it couses that I well know how prepare this stack.
