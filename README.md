@@ -24,9 +24,13 @@ I've been applying the conceptions of object's programming at backend and fronta
 I've  been working on the PHP backend with Bitrix and it couses that I well know how prepare this stack.
 My stack develpment includes:
 1. Frontand 
+
 1.1 JS (jQuery libery is high demanded, Jq Validator https://jqueryvalidation.org/, 
+
 1.2  UI libreries such as bootstrap, sliders, photo and video galleries and etc...
+
 1.3 deep knowledge of css+html 
+
 1.4 little experience with VUE
 
 2. Backeand (is more valuable for me) - Bitrix is what i detaily explained before
