@@ -16,13 +16,13 @@ By Result, this business gived me good exprerience, amotions and confident.
 
 Therefore i will continue it. 
 
-I've been applying the conceptions of object's programming at backend and frontand since I've began in 2017. 
-I've  been working on the PHP backend and it couses that i very well know how prepare this product.
+I've been applying the conceptions of object's programming at backend and frontand since 2017. 
+I've  been working on the PHP backend with Bitrix and it couses that i very well know how prepare this stack.
 
 My exreprince:
 
-- 2021-2022 i did http://alenka.ru/  where i got a exprerince by ingration with external servises such as: MindBox, Manzana
-- 2019-2021 i worked in Web-studio the FirstBit where i did such project as:
+- 2021-2022 I worked http://alenka.ru/  where I got the ingration exprerince of external servises such as: MindBox, Manzana, and also configuration of: Delevery, Pay systems 
+- 2019-2021 I worked in Web-studio the FirstBit where I participated in such projects:
 
 https://rosmorport.ru/
 
@@ -44,6 +44,6 @@ http://tillistilli.ru/
 
 http://artdebeauty.ru/
 
-- 2018- 2019 i did many diffrent projects wich i cant now defenetly to listing but i remeber good the http://new.rusdiamhouse.ru/make/ring/ 
+- 2018- 2019 i had been doing anather projects are imposible to list defenetly now, by exception I remeber well the http://new.rusdiamhouse.ru/make/ring/ 
 
 - 📫 How to reach me ivan.serg0692@gmail.com
