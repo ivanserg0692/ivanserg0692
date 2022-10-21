@@ -17,7 +17,7 @@ By Result, this business gived me good exprerience, amotions and confident.
 Therefore i will continue it. 
 
 I've been applying the conceptions of object's programming at backend and frontand since 2017. 
-I've  been working on the PHP backend with Bitrix and it couses that i very well know how prepare this stack.
+I've  been working on the PHP backend with Bitrix and it couses that I well know how prepare this stack.
 
 My exreprince:
 
