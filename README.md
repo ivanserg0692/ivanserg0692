@@ -10,14 +10,14 @@ You can click the Preview link to take a look at your changes.
 --->
 Now I am web developer on PHP. And i love to develop a backend. 
 
-Since 2022 year i have expereince of 4 year the commercial web development. I began my way with bitrix Framework. And within 3 year i have been practiced that business. 
+Since 2022 year i have expereince of 4 year the commercial web development. I began my way with bitrix Framework. And within 3 year i've been practicing that business. 
 
-This business gived to me good exprerience, amotions and confident.
+By Result, this business gived me good exprerience, amotions and confident.
 
-Therefore i will to continue this. 
+Therefore i will continue it. 
 
-Within this time I understood the conceptions of object's programming at backend and frontand. 
-More time i work on PHP backend and then i very good know hwo prepare this product.
+I've been applying the conceptions of object's programming at backend and frontand since I've began in 2017. 
+I've  been working on the PHP backend and it couses that i very well know how prepare this product.
 
 My exreprince:
 
