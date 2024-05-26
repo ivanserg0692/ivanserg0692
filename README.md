@@ -32,6 +32,7 @@ My stack develpment includes:
 1.3 deep knowledge of css+html 
 
 1.4 a little experience with VUE
+1.5 a lot of exepirence on TS 
 
 2. Backeand (is more valuable for me) - Bitrix is what i detaily explained before
 
