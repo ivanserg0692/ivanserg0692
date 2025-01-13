@@ -6,7 +6,7 @@ I am a senior web developer on PHP. I develop an apllictaion's backend.
 
 Since 2023 year I have expereinced in commercial web development for 5years. I began working on Bitrix Framework in 2018.  As result, it gave me a good exprerience.
 
-I proved my knowalge by well passing the exames of Bitrix Framemwork https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
+I proved my knowalge by well passing the exames of Bitrix Framemwork that is possible to check there https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
 
 Who don't know what is the Bitrix Framemwork, I can explain Bitrix Framemwork is a popular Russian application backend fraemwork for E-commerce/B2b applicataions like: web shops, portal and etc...
 
