@@ -8,7 +8,7 @@ Since 2023 year I had experienced in commercial web development for 5years. Toda
 
 I proved my knowledge by well passing the exames of Bitrix Framemwork that is possible to check there https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
 
-Who don't know what is the Bitrix Framemwork, I can explain Bitrix Framemwork is a popular Russian application backend fraemwork for E-commerce/B2b applicataions like: web shops, portal and etc...
+if you don't know what is the Bitrix Framemwork, I can explain Bitrix Framemwork is a popular Russian application backend fraemwork for E-commerce/B2b applicataions like: web shops, portal and etc...
 
 So this experecince is profitable, I have decided to continue researching it and growing my professionalism like that. 
 
