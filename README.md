@@ -2,9 +2,9 @@
 ivanserg0692/ivanserg0692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am a senior web developer on PHP. I develop an apllictaion's backend. 
+I am a senior web developer on PHP. I develop an application backend. 
 
-Since 2023 year I had expereinced in commercial web development for 5years. Today my exeriense is bigger. I began working on Bitrix Framework in 2018.  As result, it gave me a good exprerience.
+Since 2023 year I had expereinced in commercial web development for 5years. Today my exeriense is bigger. I began working on Bitrix Framework in 2018.  As result, it gave me a good experience.
 
 I proved my knowalge by well passing the exames of Bitrix Framemwork that is possible to check there https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
 
@@ -14,7 +14,7 @@ So this experecince is profitable, I have decided to continue researching it and
 
 I've used the conceptions of object's programming in backend and frontend. 
 I've been working on the PHP Bitrix fraemwork for long time so I well know how to prepare this stack.
-My stack develpment includes:
+My develpment stack includes:
 1. Frontand 
 
 1.1 JS (jQuery libery is high demanded, Jq Validator https://jqueryvalidation.org/, 
@@ -31,7 +31,7 @@ My stack develpment includes:
 
 My experience includes:
 
-- 2021-2022 I worked http://alenka.ru/  where I got the integration exprerince of external servises such as: MindBox, Manzana, and also configuration of: Delevery, Pay systems 
+- 2021-2022 I worked http://alenka.ru/  where I got the integration experience integrating external services such as: MindBox, Manzana, and also configuration of: Delevery, Pay systems 
 - 2019-2021 I worked in Web-studio the FirstBit where I participated in such projects:
 
 https://rosmorport.ru/
