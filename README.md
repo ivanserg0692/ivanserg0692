@@ -12,7 +12,7 @@ if you don't know what is the Bitrix Framemwork, I can explain Bitrix Framemwork
 
 So this experecince is profitable, I have decided to continue researching it and growing my professionalism like that. 
 
-I've used the conceptions of object's programming in backend and frontend. 
+I've used the conceptions of object-oriented programming in backend and frontend. 
 I've been working on the PHP Bitrix fraemwork for long time so I well know how to prepare this stack.
 My develpment stack includes:
 1. Frontand 
