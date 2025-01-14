@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 I am a senior web developer on PHP. I develop an application backend. 
 
-Since 2023 year I had experienced in commercial web development for 5years. Today my experience is bigger. I began working on Bitrix Framework in 2018.  As result, it gave me a good experience.
+As of 2023, I had over 5 years of experience in commercial web development. Today my experience is bigger. I began working on Bitrix Framework in 2018.  As result, it gave me a good experience.
 
 I proved my knowledge by well passing the exames of Bitrix Framemwork that is possible to check there https://dev.1c-bitrix.ru/learning/resume.php?ID=65688873-1157465
 
