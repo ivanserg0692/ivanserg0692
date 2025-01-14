@@ -31,7 +31,7 @@ My develpment stack includes:
 
 My experience includes:
 
-- 2021-2022 I worked http://alenka.ru/  where I got the integration experience integrating external services such as: MindBox, Manzana, and also configuration of: Delevery, Pay systems 
+- 2021-2022 I worked http://alenka.ru/  where I integrated external services like: MindBox, Manzana, and also configuration of: Delevery, Pay systems, that helped to improve operational efficiency and user experience
 - 2019-2021 I worked in Web-studio the FirstBit where I participated in such projects:
 
 https://rosmorport.ru/
