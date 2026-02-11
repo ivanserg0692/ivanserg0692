@@ -26,7 +26,7 @@ Comfortable working with **business-critical services**, legacy codebases, and p
 
 ## Key Skills
 
-- **Backend:** PHP 7+, 1C-Bitrix (D7), ORM, HL-blocks, custom modules
+- **Backend:** PHP 8+, 1C-Bitrix (D7), ORM, HL-blocks, custom modules
 - **Architecture:** REST API design, service-oriented approach, Composer
 - **Databases:** MySQL, relational modeling (1:1, 1:N, N:M)
 - **Frontend (working knowledge):** JavaScript, jQuery, Bootstrap, Vue
