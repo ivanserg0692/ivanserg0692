@@ -145,11 +145,38 @@ Faculty of Physics & Technology — Radio Engineering
 
 ## About Me
 
-Backend developer with **8+ years of experience**, focused on **reliable backend systems and clean architecture**.
+Backend developer with **8+ years of experience**, primary stack **PHP / 1C-Bitrix (D7)**.  
+I have strong experience working on **enterprise-level projects in the financial sector**, with a focus on **backend development, system architecture, and engineering processes**.
 
-I am comfortable working with **legacy codebases**, performing careful refactoring and stabilization without disrupting production systems. I value predictable systems, clear contracts, and responsibility for business-critical services.
+### Core Expertise
 
-Actively improving my English: advanced reading level, regular practice, watching movies with English subtitles.
+- **Backend development with 1C-Bitrix (D7):**  
+  ORM, HL-blocks, custom modules, service-oriented architecture
+
+- **Relational databases:**  
+  Solid understanding of 1:1, 1:N, and N:M relationships and their practical implementation via ORM
+
+- **REST APIs:**  
+  Design and implementation of backend services, Composer-based architecture, routing
+
+- **Bitrix administrative interface:**  
+  Development and customization of admin pages based on standard Bitrix UI for custom D7 / RM entities
+
+- **Information security:**  
+  Repository audits, secure handling of secrets, Vault integration
+
+- **CI/CD & automation:**  
+  Bash scripting, static code analysis, build and deployment automation
+
+- **Logging & infrastructure:**  
+  ELK stack, Linux environments, log analysis, Redis
+
+- **Non-standard integrations:**  
+  POP3, extension of standard Bitrix modules (mail, support)
+
+- **Engineering initiatives:**  
+  Development of PoC solutions (Node.js, WebSocket, Redis) for real-time and event-driven interactions
+
 
 ---
 
