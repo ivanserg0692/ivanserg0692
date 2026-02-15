@@ -177,7 +177,7 @@ I have strong experience working on **enterprise-level projects in the financial
 - **Engineering initiatives:**  
   Development of PoC solutions (Node.js, WebSocket, Redis) for real-time and event-driven interactions
 
-## 🚀 Current Focus: Laravel Backend Architecture
+## 🚀 Expanding Backend Expertise with Laravel
 
 I'm currently building a personal backend project:
 
