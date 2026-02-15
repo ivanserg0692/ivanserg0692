@@ -177,6 +177,24 @@ I have strong experience working on **enterprise-level projects in the financial
 - **Engineering initiatives:**  
   Development of PoC solutions (Node.js, WebSocket, Redis) for real-time and event-driven interactions
 
+## 🚀 Current Focus: Laravel Backend Architecture
+
+I'm currently building a personal backend project:
+
+### 🔹 Laravel Admin API Platform  
+👉 https://github.com/ivanserg0692/laravel-admin-api-platform
+
+A backend-oriented project focused on:
+
+- Clean Architecture principles
+- REST API design
+- Authentication (JWT)
+- Service layer structuring
+- DTO usage & request validation
+- Queues, caching, storage abstraction
+- Separation between transport and domain layers
+
+The goal of this project is to strengthen production-level Laravel backend engineering skills beyond framework basics.
 
 ---
 
